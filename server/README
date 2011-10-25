@@ -1,0 +1,3 @@
+This is a handler for pywebsocket, you may run the server 
+with the standalone.py provided with pywebsocket.
+python standalone.py -p 1337 -w <dir-with-snake_server_wsh.py>
